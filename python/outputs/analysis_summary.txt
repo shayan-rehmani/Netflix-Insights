@@ -1,0 +1,14 @@
+NETFLIX CONTENT ANALYSIS - PYTHON SUMMARY
+Rows analyzed: 5,283
+Columns: 11 original columns plus release_era_python
+Duplicate rows: 0
+
+Average IMDb score by content type:
+ type  title_count  average_imdb_score
+MOVIE         3407                6.27
+ SHOW         1876                7.02
+
+Pearson correlation (IMDb score vs votes): 0.190
+Spearman correlation (IMDb score vs votes): 0.219
+
+Note: IMDb votes represent IMDb voting activity, not Netflix viewing hours.
